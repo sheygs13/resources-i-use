@@ -1,2 +1,36 @@
-# resources-i-use
+# Awesome Learning Resources I Use
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Sheygs/resources-i-use) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 :fire: A curated list of awesome resources for software development
+
+## Table of Contents
+- [How to Learn](#how-to-learn)
+- [Learn CSS](#learn-css)
+- [Command Line](#command-line) 
+- [Learn Git](#learn-git)
+- [MarkDown](#markdown)
+- [JavaScript](#javascript)
+- [Learn ES6+](#learn-es6+)
+- [Web Programming](#web-programming)
+- [React](#react)
+- [NodeJS](#nodeJS)
+- [Learn APIs](#learn-apis)
+- [Learn Databases](#learn-databases)
+- [Authentication](#authentication)
+- [Full Stack Tutorials](#full-stack-tutorials)
+- [Test Driven Development](#test-driven-development)
+- [Data Structures & Algorithms](#data-structures-&-algorithms)
+- [Clean Code](#clean-code)
+- [Software Architecture](#software-architecture)
+- [Design Patterns](#design-patterns)
+- [Progressive Web Apps](#progressive-wep-apps)
+- [Web Security](#web-security)
+- [Challenge Websites](#challenge-websites)
+- [Books](#books)
+- [Open Source Contribution](#open-source-contribution)
+- [Chrome Dev Tools](#chrome-dev-tools)
+- [Chrome Extension](#chrome-extension)
+- [Systems Design](#systems-design)
+- [Developer Productivity](#developer-productivity)
+- [Project Ideas](#project-ideas)
+- [Interview Questions](#interview-questions)
