@@ -14,7 +14,7 @@
 - [ReactJS](#reactjs)
 - [NodeJS](#nodejs)
 - [Typescript](#typescript)
-- [Learn APIs](#learn-apis)
+- [APIs](#apis)
 - [Learn Databases](#learn-databases)
 - [Authentication](#authentication)
 - [Full Stack Tutorials](#full-stack-tutorials)
@@ -156,8 +156,9 @@
 
 
 
-## Learn APIs
+## APIs
 
+- [Lots of free APIs for projects](https://github.com/n0shake/Public-APIs)
 - [Build Your Web Projects with REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
 - [Bilding a simple API with NodeJS, ExpressJS & Data Structure Persistence](https://www.codementor.io/@olawalealadeusi896/building-simple-api-with-es6-krn8xx3k6)
 - [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
@@ -193,6 +194,7 @@
 
 ## Test Driven Development
 
+- [A brief introduction to TDD](https://github.com/dwyl/learn-tdd)
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)  
 - [Complete Guide to Testing NodeJS Applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) 
 
