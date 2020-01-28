@@ -43,6 +43,7 @@
 - [Learn How to Learn (Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
 - [Learn How to Learn (Open Classrooms)](https://openclassrooms.com/en/courses/5281811-learn-how-to-learn)
 
+
 ## CSS
 
 - [Overview of CSS Concepts](https://www.taniarascia.com/overview-of-css-concepts/)
@@ -66,12 +67,14 @@
 
 - [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
 
+
 ## Learn Git and GitHub
 
 - [Git Branching](https://learngitbranching.js.org/)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub Commands](https://github.com/joshnh/Git-Commands)
 - [GitHub Official Guide](https://guides.github.com/)
+
 
 ## MarkDown
 
@@ -100,16 +103,9 @@
 - [HTTP Web Servers](https://www.udacity.com/course/http-web-servers--ud303) 
 - [Networking For Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) 
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) 
-- [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897) 
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) 
 - [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) 
 
-## Data Structures and Algorithms
-
-- [How to get good at Algorithms & Dat Structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-- [Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
-- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## ReactJS
 
@@ -131,6 +127,7 @@
 - [7 ways to implement conditional rendering in React applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
 
 
+
 ## NodeJS
 
  - [Learn Node by WesBos](https://learnnode.com/)
@@ -149,6 +146,7 @@
 - [Best Practices of NodeJS Error Handling](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 
 
+
 ## Learn APIs
 
 - [Build Your Web Projects with REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
@@ -157,15 +155,15 @@
 
 
 
-
 ## Learn Databases
 
--[SQL Bolt](https://sqlbolt.com/)
--[PostgreSQL Activity](https://pgexercises.com/)
--[Implement a Relational Database with SQL](https://openclassrooms.com/en/courses/6031801-implement-a-relational-database-with-sql) 
--[Retrieve Data using SQL](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql)
--[Complete SQL Mastery by Mosh](https://codewithmosh.com/p/complete-sql-mastery)
--[MongoDB University](https://university.mongodb.com/)
+- [SQL Bolt](https://sqlbolt.com/)
+- [PostgreSQL Activity](https://pgexercises.com/)
+- [Implement a Relational Database with SQL](https://openclassrooms.com/en/courses/6031801-implement-a-relational-database-with-sql) 
+- [Retrieve Data using SQL](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql)
+- [Complete SQL Mastery by Mosh](https://codewithmosh.com/p/complete-sql-mastery)
+- [MongoDB University](https://university.mongodb.com/)
+
 
 
 ## Authentication
@@ -178,6 +176,66 @@
 - [JWT Illustration](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
 - [Passwordless Authentication with React & Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
+
 ## Full Stack Tutorials
 
 - [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
+
+
+## Test Driven Development
+
+- [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)  
+- [Complete Guide to Testing NodeJS Applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) 
+
+
+
+## Data Structures and Algorithms
+
+- [How to get good at Algorithms & Dat Structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+
+
+## Clean Code
+
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [SOLID - Five Principles of Object Oriented Design](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
+
+
+## Software Architecture
+
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Software Design Architecture](https://www.coursera.org/specializations/software-design-architecture)
+- [Software Architecture](https://www.coursera.org/learn/software-architecture)
+
+
+## Design Patterns
+- [Design Patterns](https://www.coursera.org/learn/design-patterns)
+
+
+## Progressive Web Apps
+
+- [Complete Guide to Progressive Web Apps](https://flaviocopes.com/progressive-web-apps/)
+- [Your First PWA](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+- [Four Important Points to Know About Progressive Web Apps](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+- [Introduction to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
+- [Build a progressive Web App using Vanilla JS](https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a)
+- [Building & Deploying Your First Progressive Web App](https://bolajiayodeji.com/building-and-deploying-your-first-progressive-web-app-ck27ytcso007xcws16cy1py4w)
+
+
+## Web Security
+
+- [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897) 
+- [Cross-Site Scripting](https://portswigger.net/web-security/cross-site-scripting)
+- [Secure Your Web Application with OWASP](https://openclassrooms.com/en/courses/5162996-secure-your-web-application-with-owasp)
+
+
+## Challenge Websites
+  
+- Coding Challenge Websites
+   
+   - [Project Euler](https://projecteuler.net/)
+   - [Codewars](https://codewars.com)
