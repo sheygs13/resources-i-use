@@ -26,14 +26,16 @@
 - [Progressive Web Apps](#progressive-wep-apps)
 - [Web Security](#web-security)
 - [Challenge Websites](#challenge-websites)
-- [Books](#books)
+- [References](#references)
 - [Open Source Contribution](#open-source-contribution)
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Chrome Extension](#chrome-extension)
 - [Systems Design](#systems-design)
+- [Agile Methodology](#agile-methodology)
 - [Developer Productivity](#developer-productivity)
 - [Project Ideas](#project-ideas)
 - [Interview Questions](#interview-questions)
+
 
 
 ## How To Learn
@@ -82,6 +84,13 @@
 - [Writing On GitHub](https://help.github.com/en/github/writing-on-github)
 - [Online MarkDown Text Editor](https://dillinger.io/)
 
+
+## JavaScript
+
+- [Beginners JavaScript by WesBos](http://beginnerjavascript.com/)
+- [JavaScript30 by WesBos](https://javascript30.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/learn)
+- [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
 
 ## Learn ES6+
@@ -239,3 +248,43 @@
    
    - [Project Euler](https://projecteuler.net/)
    - [Codewars](https://codewars.com)
+
+
+
+## References
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [React Enlightment](https://www.reactenlightenment.com/)
+- [React Handbook by Flavio Copes](https://www.flaviocopes.com/page/react-handbook/)
+- [Over Reacted by ](https://overreacted.io/)
+- [Inclusive Components](https://www.smashingmagazine.com/printed-books/inclusive-components/)
+- [Full Stack React](https://www.newline.co/fullstack-react/)
+- [Road To React](https://roadtoreact.com/)
+
+
+## Open Source Contribution
+- [How to contribute to Open-Source projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
+- [Creating an Open Source JavaScript Library on GitHub](https://frontendmasters.com/courses/open-source/)
+- [Contributing to your first open source project](https://medium.com/@AceKYD/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae#.voh2zlj0o)
+
+
+## Chrome Dev Tools
+- [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+- [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/)
+
+
+## Chrome Extension
+
+- [Chrome Extension Tutorial Series](https://www.youtube.com/watch?v=8q1_NkDbfzE&list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY)
+- [Create a Chrome Extension in 10 mins](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)
+
+
+## Systems Design
+
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+
+## Agile Methodology
+
+- [Learn About Agile Project Management & Scrum](https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum)
