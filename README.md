@@ -33,9 +33,12 @@
 - [Systems Design](#systems-design)
 - [Agile Methodology](#agile-methodology)
 - [Developer Productivity](#developer-productivity)
+- [Developer Portfolio](#developer-portfolio)
 - [Project Ideas](#project-ideas)
 - [Interview Questions](#interview-questions)
-
+- [Specific Resources](#specific-resources)
+- [Terminologies](#terminologies)
+- [Miscellanous](#miscellanous)
 
 
 ## How To Learn
@@ -88,6 +91,7 @@
 ## JavaScript
 
 - [Beginners JavaScript by WesBos](http://beginnerjavascript.com/)
+- [Object Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [JavaScript30 by WesBos](https://javascript30.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
@@ -103,7 +107,7 @@
 
 
 ## Web Programming
-
+- [30 seconds of code](https://www.30secondsofcode.org/)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
@@ -221,7 +225,11 @@
 - [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Software Design Architecture](https://www.coursera.org/specializations/software-design-architecture)
 - [Software Architecture](https://www.coursera.org/learn/software-architecture)
-
+- Modern Web Browser 
+  - [Inside Browser Part 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - [Inside Browser Part 2 ](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+  - [Inside Browser Part 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+  - [Inside Browser Part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 
 ## Design Patterns
 - [Design Patterns](https://www.coursera.org/learn/design-patterns)
@@ -251,7 +259,7 @@
    - [Project Euler](https://projecteuler.net/)
    - [Codewars](https://codewars.com)
 
-
+   
 
 ## References
 
@@ -260,6 +268,7 @@
 - [React Enlightment](https://www.reactenlightenment.com/)
 - [React Handbook by Flavio Copes](https://www.flaviocopes.com/page/react-handbook/)
 - [Over Reacted by ](https://overreacted.io/)
+- [WesBos's Blog](https://wesbos.com/blog/)
 - [Inclusive Components](https://www.smashingmagazine.com/printed-books/inclusive-components/)
 - [Full Stack React](https://www.newline.co/fullstack-react/)
 - [Road To React](https://roadtoreact.com/)
@@ -290,3 +299,67 @@
 ## Agile Methodology
 
 - [Learn About Agile Project Management & Scrum](https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum)
+
+
+## Developer Productivity
+
+- [Developer New Years Resolution Guide](https://www.freecodecamp.org/news/developer-new-years-resolution-guide/)
+- [Masterclass in getting stuff done](https://doist.com/blog/masterclass-in-getting-stuff-done/)
+- [Focus & deep work: secret weapons to becoming a 10X developer](https://www.freecodecamp.org/news/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291/)
+- [How to escape tutorial purgatory](https://medium.com/free-code-camp/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40)
+- [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/)
+
+
+
+## Developer Portfolio
+- [15 web developers portfolio to inspire you](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
+- [Start blog with Hugo by Flavio Copes](https://flaviocopes.com/start-blog-with-hugo/)
+- [Create your developer portfolio using Hugo & Github Pages](https://hashnode.com/post/create-your-developer-portfolio-using-hugo-and-github-pages-ck0mbld52000b6ns11ff560uv)
+- [Getting started with Hugo & deploying to netliify](https://bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify-cjyaj1be3000hvjs1z2ipvmuw)
+
+
+
+
+## Project Ideas
+
+- [App Ideas](https://github.com/florinpop17/app-ideas)
+- [Curated projects by Karan](https://github.com/karan/Projects)
+- [Project Ideas to improve your coding skills](https://www.freecodecamp.org/news/more-project-ideas-to-improve-your-coding-skills-99f48d09bb4b/)
+- [The secret to becoming a top developer is building things](https://medium.com/better-programming/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
+- [9 projects you can do to become a frontend master](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+
+
+
+## Interview Questions
+
+- [30 seconds of Interview](https://30secondsofinterviews.org/)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [10 Inteview Questions every JavaScript Developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [Ultimate guide to preparing for coding interviews](https://www.freecodecamp.org/news/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9/)
+- [5 Essential tips to ace the developer interview](https://programmingwithmosh.com/general/5-essential-tips-to-ace-the-developer-interview/)
+- [What is a Promise ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [What is a Closure ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [What is a Pure Function ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [What is Functional Programming ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [What is Function Composition ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [Curry & Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+
+
+## Specific Resources
+- [Professional Track](https://frontendmasters.com/learn/professional/)
+- [Full Stack Track](https://frontendmasters.com/learn/fullstack/)
+- [Advanced Track](https://frontendmasters.com/learn/advanced/)
+
+
+## Terminologies
+- [Jargon.js](http://jargon.js.org/)
+- [Technical Glossary](https://github.com/dwyl/technical-glossary)
+- [freeCodeCamp guide](https://guide.freecodecamp.org/)
+
+
+## Miscellanous
+- [Upload Multiple Images to Cloudinary using NodeJS, Express & MongoDB](https://tycodez.hashnode.dev/upload-multiple-images-to-cloudinary-node-mongodb-express-ck2qn9jgq006qiws1ck5ci9gi)
+- [How to upload multiple images using Cloudinary & NodeJS](https://medium.com/the-andela-way/how-to-upload-multiple-images-using-cloudinary-and-node-js-2f053b167b80)
+- [Drag & Drop Elements with Vanilla JS & HTML](https://alligator.io/js/drag-and-drop-vanilla-js/)
