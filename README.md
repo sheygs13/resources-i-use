@@ -39,7 +39,7 @@
 - [Specific Resources](#specific-resources)
 - [Terminologies](#terminologies)
 - [Miscellanous](#miscellanous)
-
+- [Cloud Computing](#cloud-computing)
 
 ## How To Learn
 
@@ -233,7 +233,7 @@
 
 ## Design Patterns
 - [Design Patterns](https://www.coursera.org/learn/design-patterns)
-
+- [JavaScript Design Patterns in action](https://blog.soshace.com/javascript-design-patterns-in-action/)
 
 ## Progressive Web Apps
 
@@ -360,6 +360,13 @@
 
 
 ## Miscellanous
+- [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
+- [Developer Experience for a Modern Web: JAMstack Delivers](https://cloudinary.com/blog/developer_experience_for_a_modern_web_jamstack_delivers?utm_source=twitter&utm_medium=social&utm_campaign=blog-rotation)
+- [Page detailing a developer's setups, gear, software & config](https://uses.tech/)
 - [Upload Multiple Images to Cloudinary using NodeJS, Express & MongoDB](https://tycodez.hashnode.dev/upload-multiple-images-to-cloudinary-node-mongodb-express-ck2qn9jgq006qiws1ck5ci9gi)
 - [How to upload multiple images using Cloudinary & NodeJS](https://medium.com/the-andela-way/how-to-upload-multiple-images-using-cloudinary-and-node-js-2f053b167b80)
 - [Drag & Drop Elements with Vanilla JS & HTML](https://alligator.io/js/drag-and-drop-vanilla-js/)
+
+
+## Cloud Computing
+- [Learn AWS lambda from scratch](https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d)
