@@ -9,8 +9,9 @@
 - [Learn Git and GitHub](#learn-git-and-github)
 - [MarkDown](#markdown)
 - [JavaScript](#javascript)
-- [Learn ES6+](#learn-es6+)
+- [ES6 & Beyond](#es6-beyond)
 - [Web Programming](#web-programming)
+- [Python](#python)
 - [ReactJS](#reactjs)
 - [NodeJS](#nodejs)
 - [Typescript](#typescript)
@@ -41,6 +42,7 @@
 - [Miscellanous](#miscellanous)
 - [Cloud Computing](#cloud-computing)
 
+
 ## How To Learn
 
 - [Learning from the Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230)
@@ -66,6 +68,12 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](http://cssgridgarden.com)
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+- UI/UX/Frontend
+   - [Free Front-End](https://freefrontend.com/)
+   - [Images - Unsplash](https://unsplash.com/)
+   - [SVG Illustrations](https://undraw.co/illustrations)
+   - [Google Fonts](https://fonts.google.com/)
+   - [Give n Go](https://give-n-go.co/)
 
 
 ## Command Line
@@ -79,6 +87,13 @@
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub Commands](https://github.com/joshnh/Git-Commands)
 - [GitHub Official Guide](https://guides.github.com/)
+- [Git Aliases](https://github.com/andela/bestpractices/wiki/Git-Aliases)
+- [Git naming conventions & best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
+- [Git Workflow](https://github.com/andela/bestpractices/wiki/Git-Workflow)
+- [Feature Branches & Pull Requests: Walkthrough](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a)
+- [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
+- [Gitmoji](https://gitmoji.carloscuesta.me/)
+- [Commit message emoji](https://github.com/dannyfritz/commit-message-emoji)
 
 
 ## MarkDown
@@ -86,6 +101,7 @@
 - [MarkDown Links](https://github.com/lauragift21/awesome-learning-resources#markdown)
 - [Writing On GitHub](https://help.github.com/en/github/writing-on-github)
 - [Online MarkDown Text Editor](https://dillinger.io/)
+- [Easy Markdown to GitHub Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 
 ## JavaScript
@@ -97,7 +113,7 @@
 - [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
 
-## Learn ES6+
+## ES6 & Beyond
 
 - [ES6 for Everyone!](https://es6.io/)
 - [ES6 JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
@@ -107,10 +123,12 @@
 
 
 ## Web Programming
+
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+- [JavaScript & the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)    
 - [HTTP Web Servers](https://www.udacity.com/course/http-web-servers--ud303) 
@@ -120,9 +138,19 @@
 - [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) 
 
 
+## Python
+
+- [Learn Python](https://github.com/trekhleb/learn-python)
+- [Python Best Practices](https://github.com/andela/bestpractices/wiki/Python-Best-Practices)
+
+
 ## ReactJS
 
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [10 JavaScript concepts you need to master React](https://dev.to/codeartistryio/10-javascript-concepts-you-need-to-master-react-cheatsheet-3njh)
+- [Alligator React](https://alligator.io/react/)
+- [React CheatSheet for 2020](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/)
+- [7 ways to implement conditional rendering in React applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Learn React for free](https://scrimba.com/g/glearnreact) 
@@ -137,8 +165,6 @@
 - [React Context & Hooks](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
 - [React & Redux](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
 - [LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-- [7 ways to implement conditional rendering in React applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
-
 
 
 ## NodeJS
@@ -157,16 +183,27 @@
 - [Testing NodeJS Apps with Mocha](https://mochajs.org/)
 - [NodeJS Interview Questions & Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Best Practices of NodeJS Error Handling](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+- [Sending emails using NodeJS & SendGrid](https://medium.com/@arjunbastola/sending-emails-using-node-js-and-sendgrid-5ad4dea7cf44)
+- [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
+- [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
+- [Example Node Server w/ Babel](https://github.com/babel/example-node-server)
+- [Test-Driven Development with Node & Express](https://developers.redhat.com/blog/2016/03/15/test-driven-development-for-building-apis-in-node-js-and-express/)
+- [My Node.js setup (Mocha and Chai, Babel7, ES6)](https://dev.to/bnorbertjs/my-nodejs-setup-mocha--chai-babel7-es6-43ei)
+- [How to use Node debug module on Windows](https://stackoverflow.com/questions/23408910/how-to-use-nodes-debug-module-windows)
+- [Adding Swagger to existing NodeJS projects](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
+- [Splitting your swagger spec into multiple files in a Node project](https://medium.com/the-andela-way/splitting-your-swagger-spec-into-multiple-files-in-a-node-project-2019575b0ced)
+- [Password Reset using JWT](https://www.codementor.io/@olatundegaruba/password-reset-using-jwt-ag2pmlck0)
+- [Getting started with Node, Express & PostgreSQL using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
 
 
 
 ## APIs
 
 - [Lots of free APIs for projects](https://github.com/n0shake/Public-APIs)
+- [public APIs](https://github.com/public-apis/public-apis)
 - [Build Your Web Projects with REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
 - [Bilding a simple API with NodeJS, ExpressJS & Data Structure Persistence](https://www.codementor.io/@olawalealadeusi896/building-simple-api-with-es6-krn8xx3k6)
 - [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
-
 
 
 ## Learn Databases
@@ -177,7 +214,7 @@
 - [Retrieve Data using SQL](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql)
 - [Complete SQL Mastery by Mosh](https://codewithmosh.com/p/complete-sql-mastery)
 - [MongoDB University](https://university.mongodb.com/)
-
+- [List of SQL commands - CodeAcademy](https://www.codecademy.com/articles/sql-commands)
 
 
 ## Authentication
@@ -197,26 +234,36 @@
 
 
 ## Test Driven Development
+
+- [Testing with mocha](https://javascript.info/testing-mocha)
+- [Testing Node.js with mocha and chai](https://mherman.org/blog/testing-node-js-with-mocha-and-chai/)
+- [Chai.js cheatsheet](https://devhints.io/chai)
+- [Test a Node RESTful API with mocha and chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+- [Getting to 99.9% test coverage with Mocks, Stubs & Spies](https://medium.com/the-andela-way/getting-to-99-9-test-coverage-with-mocks-stubs-spies-ecdd3d4aaf9a)
+- [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
+- [Client Side JavaScript Testing Best Practices](https://github.com/andela/bestpractices/wiki/Client-Side-JavaScript-Testing-Best-Practices)
 - [JavaScript Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [A brief introduction to TDD](https://github.com/dwyl/learn-tdd)
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)  
 - [Complete Guide to Testing NodeJS Applications](https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/) 
 
 
-
 ## Data Structures and Algorithms
 
+- [Personal Interview Study Tracker by Esco Obong](https://trello.com/templates/personal/interview-study-tracker-5g9FvwSF)
 - [How to get good at Algorithms & Dat Structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 - [Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Leetcode Patterns](https://github.com/SeanPrashad/leetcode-patterns)
 
 
 ## Clean Code
 
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [SOLID - Five Principles of Object Oriented Design](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 
 ## Software Architecture
@@ -231,9 +278,12 @@
   - [Inside Browser Part 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
   - [Inside Browser Part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 
+
 ## Design Patterns
+
 - [Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [JavaScript Design Patterns in action](https://blog.soshace.com/javascript-design-patterns-in-action/)
+
 
 ## Progressive Web Apps
 
@@ -260,7 +310,6 @@
    - [Codewars](https://codewars.com)
 
    
-
 ## References
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
@@ -275,12 +324,14 @@
 
 
 ## Open Source Contribution
+
 - [How to contribute to Open-Source projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
 - [Creating an Open Source JavaScript Library on GitHub](https://frontendmasters.com/courses/open-source/)
 - [Contributing to your first open source project](https://medium.com/@AceKYD/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae#.voh2zlj0o)
 
 
 ## Chrome Dev Tools
+
 - [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/)
 
@@ -302,7 +353,9 @@
 
 
 ## Developer Productivity
-
+- [Cheat Sheets](https://github.com/andela/bestpractices/wiki/Cheat-Sheets)
+- [Eliminate Stupid Mental Effort](https://github.com/andela/bestpractices/wiki/Eliminate-Stupid-Mental-Effort-(ESME))
+- [Keeping Your Mental Kitchen Clean](https://github.com/andela/bestpractices/wiki/Keeping-Your-Mental-Kitchen-Clean)
 - [Developer New Years Resolution Guide](https://www.freecodecamp.org/news/developer-new-years-resolution-guide/)
 - [Masterclass in getting stuff done](https://doist.com/blog/masterclass-in-getting-stuff-done/)
 - [Focus & deep work: secret weapons to becoming a 10X developer](https://www.freecodecamp.org/news/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291/)
@@ -310,14 +363,12 @@
 - [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/)
 
 
-
 ## Developer Portfolio
+
 - [15 web developers portfolio to inspire you](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
 - [Start blog with Hugo by Flavio Copes](https://flaviocopes.com/start-blog-with-hugo/)
 - [Create your developer portfolio using Hugo & Github Pages](https://hashnode.com/post/create-your-developer-portfolio-using-hugo-and-github-pages-ck0mbld52000b6ns11ff560uv)
 - [Getting started with Hugo & deploying to netliify](https://bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify-cjyaj1be3000hvjs1z2ipvmuw)
-
-
 
 
 ## Project Ideas
@@ -327,6 +378,7 @@
 - [Project Ideas to improve your coding skills](https://www.freecodecamp.org/news/more-project-ideas-to-improve-your-coding-skills-99f48d09bb4b/)
 - [The secret to becoming a top developer is building things](https://medium.com/better-programming/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 - [9 projects you can do to become a frontend master](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+- [5 React projects to build](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/)
 
 
 
@@ -336,6 +388,7 @@
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [10 Inteview Questions every JavaScript Developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Ultimate guide to preparing for coding interviews](https://www.freecodecamp.org/news/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9/)
+- [Reverse Interview](https://github.com/viraptor/reverse-interview)
 - [5 Essential tips to ace the developer interview](https://programmingwithmosh.com/general/5-essential-tips-to-ace-the-developer-interview/)
 - [What is a Promise ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [What is a Closure ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
@@ -345,28 +398,51 @@
 - [What is Function Composition ?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 - [Curry & Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+- [A tricky JavaScript question asked by Google & Amazon](https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703)
 
 
 ## Specific Resources
+
 - [Professional Track](https://frontendmasters.com/learn/professional/)
 - [Full Stack Track](https://frontendmasters.com/learn/fullstack/)
 - [Advanced Track](https://frontendmasters.com/learn/advanced/)
 
 
 ## Terminologies
+
 - [Jargon.js](http://jargon.js.org/)
 - [Technical Glossary](https://github.com/dwyl/technical-glossary)
 - [freeCodeCamp guide](https://guide.freecodecamp.org/)
 
 
 ## Miscellanous
+
+- [Pair Programming](https://github.com/andela/bestpractices/wiki/Pair-Programming)
 - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
 - [Developer Experience for a Modern Web: JAMstack Delivers](https://cloudinary.com/blog/developer_experience_for_a_modern_web_jamstack_delivers?utm_source=twitter&utm_medium=social&utm_campaign=blog-rotation)
 - [Page detailing a developer's setups, gear, software & config](https://uses.tech/)
 - [Upload Multiple Images to Cloudinary using NodeJS, Express & MongoDB](https://tycodez.hashnode.dev/upload-multiple-images-to-cloudinary-node-mongodb-express-ck2qn9jgq006qiws1ck5ci9gi)
 - [How to upload multiple images using Cloudinary & NodeJS](https://medium.com/the-andela-way/how-to-upload-multiple-images-using-cloudinary-and-node-js-2f053b167b80)
 - [Drag & Drop Elements with Vanilla JS & HTML](https://alligator.io/js/drag-and-drop-vanilla-js/)
+- [JSON Generator](https://www.json-generator.com/)
 
 
 ## Cloud Computing
+
 - [Learn AWS lambda from scratch](https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d)
+
+
+## Site Performance
+
+- [GTmetrix](https://gtmetrix.com/)
+
+
+## Writing And Documentation
+
+- [A Quick Guide to Medium](https://writingcooperative.com/a-quick-guide-to-medium-9f61864ab26)
+- [Writing with Grammarly](grammarly.com)
+
+
+## DevOps
+
+- [Ops School](http://www.opsschool.org/)
