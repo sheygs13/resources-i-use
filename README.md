@@ -4,11 +4,12 @@
 
 ## Table of Contents
 - [How to Learn](#how-to-learn)
-- [CSS](#css)
+- [HTML and CSS](#html-css)
 - [Command Line](#command-line) 
 - [Learn Git and GitHub](#learn-git-and-github)
 - [MarkDown](#markdown)
 - [JavaScript](#javascript)
+- [Frontend](#frontend)
 - [ES6 & Beyond](#es6-beyond)
 - [Web Programming](#web-programming)
 - [Python](#python)
@@ -51,29 +52,23 @@
 - [Learn How to Learn (Open Classrooms)](https://openclassrooms.com/en/courses/5281811-learn-how-to-learn)
 
 
-## CSS
+## HTML and CSS
 
-- [Overview of CSS Concepts](https://www.taniarascia.com/overview-of-css-concepts/)
-- [Design for Developers](https://www.taniarascia.com/design-for-developers/)
-- [Writing Better CSS with BEM](https://hashnode.com/post/introduction-to-writing-better-css-with-bem-cjylen0hk001470s1mh2euhux)
-- [CSS Tricks](https://css-tricks.com/)
-- [Mark Sheet](https://marksheet.io/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
+- [Mark Sheet](https://marksheet.io/)
+- [CSS Tricks](https://css-tricks.com/)
 - [Aligator.IO](https://alligator.io/css)
 - [30 seconds of CSS](https://www.30secondsofcode.org/css/p/1/)
-- [Flexbox by WesBos](https://flexbox.io/)
+- [CSS Concepts Overview](https://www.taniarascia.com/overview-of-css-concepts/)
+- [Design for Developers](https://www.taniarascia.com/design-for-developers/)
+- Writing better CSS with BEM
+  - [BEM 101](https://css-tricks.com/bem-101/)
+  - [BEM](https://en.bem.info/)
+  - [Get BEM](http://getbem.com/introduction/)
+- [What the Flexbox?!](https://flexbox.io/)
 - [FlexBox30](https://github.com/samanthaming/Flexbox30)
 - [CSS Grid by WesBos](https://cssgrid.io/)
-- [CSS Dinner](https://flukeout.github.io/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [CSS Grid Garden](http://cssgridgarden.com)
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
-- UI/UX/Frontend
-   - [Free Front-End](https://freefrontend.com/)
-   - [Images - Unsplash](https://unsplash.com/)
-   - [SVG Illustrations](https://undraw.co/illustrations)
-   - [Google Fonts](https://fonts.google.com/)
-   - [Give n Go](https://give-n-go.co/)
 
 
 ## Command Line
@@ -83,10 +78,8 @@
 
 ## Learn Git and GitHub
 
-- [Git Branching](https://learngitbranching.js.org/)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub Commands](https://github.com/joshnh/Git-Commands)
-- [GitHub Official Guide](https://guides.github.com/)
 - [Git Aliases](https://github.com/andela/bestpractices/wiki/Git-Aliases)
 - [Git naming conventions & best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
 - [Git Workflow](https://github.com/andela/bestpractices/wiki/Git-Workflow)
@@ -111,6 +104,14 @@
 - [JavaScript30 by WesBos](https://javascript30.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+
+
+## Frontend
+ - [Free Front-End](https://freefrontend.com/)
+ - [Images - Unsplash](https://unsplash.com/)
+ - [SVG Illustrations](https://undraw.co/illustrations)
+ - [Google Fonts](https://fonts.google.com/)
+ - [Give n Go](https://give-n-go.co/)
 
 
 ## ES6 & Beyond
@@ -209,7 +210,7 @@
 ## Learn Databases
 
 - [SQL Bolt](https://sqlbolt.com/)
-- [PostgreSQL Activity](https://pgexercises.com/)
+- [PostgreSQL Exercises](https://pgexercises.com/)
 - [Implement a Relational Database with SQL](https://openclassrooms.com/en/courses/6031801-implement-a-relational-database-with-sql) 
 - [Retrieve Data using SQL](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql)
 - [Complete SQL Mastery by Mosh](https://codewithmosh.com/p/complete-sql-mastery)
@@ -309,6 +310,11 @@
    - [Project Euler](https://projecteuler.net/)
    - [Codewars](https://codewars.com)
 
+- Interactivity Website
+   - [CSS Dinner](https://flukeout.github.io/)
+   - [Flexbox Froggy](https://flexboxfroggy.com/)
+   - [CSS Grid Garden](http://cssgridgarden.com)
+   - [Git Branching](https://learngitbranching.js.org/)
    
 ## References
 
