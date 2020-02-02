@@ -128,14 +128,14 @@
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+- [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [JavaScript & the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)    
 - [HTTP Web Servers](https://www.udacity.com/course/http-web-servers--ud303) 
 - [Networking For Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) 
-- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) 
-- [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) 
+- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)  
 - [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) 
 
 
@@ -195,8 +195,7 @@
 - [Splitting your swagger spec into multiple files in a Node project](https://medium.com/the-andela-way/splitting-your-swagger-spec-into-multiple-files-in-a-node-project-2019575b0ced)
 - [Password Reset using JWT](https://www.codementor.io/@olatundegaruba/password-reset-using-jwt-ag2pmlck0)
 - [Getting started with Node, Express & PostgreSQL using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
-
-
+- [Node, Express, postgreSQL & Heroku](https://www.taniarascia.com/node-express-postgresql-heroku/)
 
 ## APIs
 
