@@ -151,10 +151,10 @@
 - [10 JavaScript concepts you need to master React](https://dev.to/codeartistryio/10-javascript-concepts-you-need-to-master-react-cheatsheet-3njh)
 - [Alligator React](https://alligator.io/react/)
 - [React CheatSheet for 2020](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/)
-- [7 ways to implement conditional rendering in React applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
-- [React for Beginners by Wes Bos](https://reactforbeginners.com/)
-- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Learn React for free](https://scrimba.com/g/glearnreact) 
+- [7 ways to implement conditional rendering in React applications](https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Complete Intro to React V5](https://btholt.github.io/complete-intro-to-react-v5/)
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
@@ -165,7 +165,7 @@
 - [React, Redux & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
 - [React Context & Hooks](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
 - [React & Redux](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
-- [LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+
 
 
 ## NodeJS
@@ -428,7 +428,6 @@
 - [Page detailing a developer's setups, gear, software & config](https://uses.tech/)
 - [Upload Multiple Images to Cloudinary using NodeJS, Express & MongoDB](https://tycodez.hashnode.dev/upload-multiple-images-to-cloudinary-node-mongodb-express-ck2qn9jgq006qiws1ck5ci9gi)
 - [How to upload multiple images using Cloudinary & NodeJS](https://medium.com/the-andela-way/how-to-upload-multiple-images-using-cloudinary-and-node-js-2f053b167b80)
-- [Drag & Drop Elements with Vanilla JS & HTML](https://alligator.io/js/drag-and-drop-vanilla-js/)
 - [JSON Generator](https://www.json-generator.com/)
 
 
