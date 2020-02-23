@@ -172,7 +172,7 @@
 
  - [Learn Node by WesBos](https://learnnode.com/)
  - [Go Fullstack with NodeJS, ExpressJS & MongoDB](https://openclassrooms.com/en/courses/5614116-go-full-stack-with-node-js-express-and-mongodb)
- - [The complete NodeJS developer course](https://www.udemy.com/course/the-complete-nodejs-developer-course-3/)
+ - [The complete NodeJS developer course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
  - [Alligator.IO Node Page](https://alligator.io/nodejs/)
  - [Deploy NodeJS back-end to Heroku](https://medium.com/@kimtnguyen/how-to-deploy-es6-node-js-express-back-end-to-heroku-7e6743e8d2ff)
  - [Setup eslint on VS Code with Airbnb Style guide](https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6)
