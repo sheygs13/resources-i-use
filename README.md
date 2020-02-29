@@ -194,6 +194,11 @@
 - [Password Reset using JWT](https://www.codementor.io/@olatundegaruba/password-reset-using-jwt-ag2pmlck0)
 - [Getting started with Node, Express & PostgreSQL using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
 - [Node, Express, postgreSQL & Heroku](https://www.taniarascia.com/node-express-postgresql-heroku/)
+- [Getting started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Deploy Node & postgreSQL to Heroku](https://medium.com/@aem_iro/deploying-a-node-js-postgressql-app-to-heroku-hosting-platform-cc611287ae76)
+- [Convert ES6 to ES5 using Babel](https://medium.com/@SunnyB/how-to-convert-es6-into-es5-using-babel-1b533d31a169)
+- [Setting up Eslint on VS Code with Airbnb](https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6)
+
 
 ## APIs
 
