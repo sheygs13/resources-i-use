@@ -38,7 +38,6 @@
 - [Developer Portfolio](#developer-portfolio)
 - [Project Ideas](#project-ideas)
 - [Interview Questions](#interview-questions)
-- [Specific Resources](#specific-resources)
 - [Terminologies](#terminologies)
 - [Miscellanous](#miscellanous)
 - [Cloud Computing](#cloud-computing)
@@ -49,7 +48,7 @@
 - [Learning from the Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230)
 - [Accelerated Intelligence](https://medium.com/accelerated-intelligence/be-prepared-to-lose-your-job-in-the-future-if-you-dont-learn-this-one-skill-now-8a87ade2a268)
 - [Learn How to Learn (Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
-- [Learn How to Learn (Open Classrooms)](https://openclassrooms.com/en/courses/5281811-learn-how-to-learn)
+
 
 
 ## HTML and CSS
@@ -171,7 +170,6 @@
 ## NodeJS
 
  - [Learn Node by WesBos](https://learnnode.com/)
- - [Go Fullstack with NodeJS, ExpressJS & MongoDB](https://openclassrooms.com/en/courses/5614116-go-full-stack-with-node-js-express-and-mongodb)
  - [The complete NodeJS developer course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
  - [Alligator.IO Node Page](https://alligator.io/nodejs/)
  - [Deploy NodeJS back-end to Heroku](https://medium.com/@kimtnguyen/how-to-deploy-es6-node-js-express-back-end-to-heroku-7e6743e8d2ff)
@@ -201,7 +199,6 @@
 
 - [Lots of free APIs for projects](https://github.com/n0shake/Public-APIs)
 - [public APIs](https://github.com/public-apis/public-apis)
-- [Build Your Web Projects with REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
 - [Bilding a simple API with NodeJS, ExpressJS & Data Structure Persistence](https://www.codementor.io/@olawalealadeusi896/building-simple-api-with-es6-krn8xx3k6)
 - [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
 
@@ -210,8 +207,6 @@
 
 - [SQL Bolt](https://sqlbolt.com/)
 - [PostgreSQL Exercises](https://pgexercises.com/)
-- [Implement a Relational Database with SQL](https://openclassrooms.com/en/courses/6031801-implement-a-relational-database-with-sql) 
-- [Retrieve Data using SQL](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql)
 - [Complete SQL Mastery by Mosh](https://codewithmosh.com/p/complete-sql-mastery)
 - [MongoDB University](https://university.mongodb.com/)
 - [List of SQL commands - CodeAcademy](https://www.codecademy.com/articles/sql-commands)
@@ -299,7 +294,7 @@
 
 - [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897) 
 - [Cross-Site Scripting](https://portswigger.net/web-security/cross-site-scripting)
-- [Secure Your Web Application with OWASP](https://openclassrooms.com/en/courses/5162996-secure-your-web-application-with-owasp)
+
 
 
 ## Challenge Websites
@@ -404,13 +399,6 @@
 - [Curry & Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Composing Software](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [A tricky JavaScript question asked by Google & Amazon](https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703)
-
-
-## Specific Resources
-
-- [Professional Track](https://frontendmasters.com/learn/professional/)
-- [Full Stack Track](https://frontendmasters.com/learn/fullstack/)
-- [Advanced Track](https://frontendmasters.com/learn/advanced/)
 
 
 ## Terminologies
